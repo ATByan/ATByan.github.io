@@ -1,8 +1,7 @@
-<!doctype html>
+
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>請複製以下文字</title>
   </head>
   <body>
 <h1>ATB通伯樂器音響</h1>
